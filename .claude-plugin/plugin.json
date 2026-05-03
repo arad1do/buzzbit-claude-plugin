@@ -1,0 +1,30 @@
+{
+  "name": "buzzbit",
+  "version": "1.0.0",
+  "description": "BuzzBit X marketing automation in your terminal — flows, campaigns, social posts, popups, segments, and more via Claude Code.",
+  "author": {
+    "name": "BuzzBit X",
+    "url": "https://buzzbitx.com"
+  },
+  "homepage": "https://buzzbitx.com/claude",
+  "license": "MIT",
+  "mcp": {
+    "servers": {
+      "buzzbit": {
+        "transport": "http",
+        "url": "https://api.buzzbitx.com/mcp",
+        "headers": {
+          "Authorization": "Bearer ${BUZZBIT_API_KEY}"
+        }
+      }
+    }
+  },
+  "skills": [
+    "skills/buzzbit-overview.md",
+    "skills/buzzbit-flow-builder.md",
+    "skills/buzzbit-content-creator.md"
+  ],
+  "commands": [
+    "commands/buzzbit-status.md"
+  ]
+}
