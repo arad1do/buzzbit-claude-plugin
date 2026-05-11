@@ -20,12 +20,15 @@ You can generate one at **Settings → Integrations & API → Claude** in the Bu
 ## What you get
 
 - **MCP server connection** to `https://api.buzzbitx.com/mcp` — ~48 tools across analytics, customers, orders, products, flows, campaigns, social posts, popups, segments, discounts, and media.
-- **3 skills** that auto-load when relevant:
+- **4 skills** that auto-load when relevant:
   - `buzzbit-overview` — master skill, always loads
   - `buzzbit-flow-builder` — for creating/editing email flows
   - `buzzbit-content-creator` — for generating email/social/popup copy
-- **1 slash command**:
+  - `buzzbit-customer-analyzer` — for deep customer profiling and segmentation
+- **3 slash commands**:
   - `/buzzbit-status` — quick view of tier, quota usage, and last-7-days metrics
+  - `/buzzbit-quota` — detailed quota usage with warnings for near-limit counters
+  - `/buzzbit-report` — multi-section markdown executive snapshot
 
 ## Usage examples
 
