@@ -1,7 +1,7 @@
 {
   "name": "buzzbit",
-  "version": "1.1.0",
-  "description": "BuzzBit X marketing automation in your terminal — flows, campaigns, social posts, popups, segments, customer analysis, and reports via Claude Code.",
+  "version": "1.2.0",
+  "description": "BuzzBit X marketing automation in your terminal — flows, campaigns, social posts, popups, segments, customer analysis, email design, CRM boards, support tickets, and reports via Claude Code.",
   "author": {
     "name": "BuzzBit X",
     "url": "https://buzzbitx.com"
@@ -23,7 +23,8 @@
     "skills/buzzbit-overview.md",
     "skills/buzzbit-flow-builder.md",
     "skills/buzzbit-content-creator.md",
-    "skills/buzzbit-customer-analyzer.md"
+    "skills/buzzbit-customer-analyzer.md",
+    "skills/buzzbit-email-designer.md"
   ],
   "commands": [
     "commands/buzzbit-status.md",
