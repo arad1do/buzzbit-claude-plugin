@@ -1,7 +1,7 @@
 {
   "name": "buzzbit",
-  "version": "1.3.0",
-  "description": "BuzzBit X marketing automation in your terminal — flows, campaigns, social posts, popups, segments, customer analysis, email design, CRM boards, support tickets, team management, billing monitoring, and reports via Claude Code.",
+  "version": "1.4.0",
+  "description": "BuzzBit X marketing automation in your terminal — email + flow + popup + chatflow + cross-channel design through conversation. Campaigns, segments, CRM boards, support tickets, team management, billing monitoring, and reports via Claude Code.",
   "author": {
     "name": "BuzzBit X",
     "url": "https://buzzbitx.com"
@@ -25,6 +25,9 @@
     "skills/buzzbit-content-creator.md",
     "skills/buzzbit-customer-analyzer.md",
     "skills/buzzbit-email-designer.md",
+    "skills/buzzbit-popup-designer.md",
+    "skills/buzzbit-chatflow-designer.md",
+    "skills/buzzbit-cross-channel-orchestrator.md",
     "skills/buzzbit-team-manager.md",
     "skills/buzzbit-billing-monitor.md"
   ],
