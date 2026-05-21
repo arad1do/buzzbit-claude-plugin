@@ -1,0 +1,25 @@
+{
+  "name": "@buzzbitx/claude-plugin",
+  "version": "1.4.0",
+  "description": "BuzzBit X marketing automation in your terminal — email + flow + popup + chatflow + cross-channel design through conversation.",
+  "keywords": [
+    "buzzbit",
+    "claude",
+    "claude-code",
+    "mcp",
+    "model-context-protocol",
+    "marketing-automation",
+    "ecommerce",
+    "plugin"
+  ],
+  "author": "Arad Doron <arad1doron@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://buzzbitx.com/claude",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arad1do/buzzbit-claude-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arad1do/buzzbit-claude-plugin/issues"
+  }
+}
